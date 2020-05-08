@@ -108,3 +108,8 @@ F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IEntities\bin\Debug\IEntities.pdb
 F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IEntities\obj\Debug\IEntities.csprojResolveAssemblyReference.cache
 F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IEntities\obj\Debug\IEntities.dll
 F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IEntities\obj\Debug\IEntities.pdb
+D:\RSG\DELL\Documentos\GitHub\RequisicionesBison\T259Prueba08.5\T259Prueba08\IEntities\bin\Debug\IEntities.dll
+D:\RSG\DELL\Documentos\GitHub\RequisicionesBison\T259Prueba08.5\T259Prueba08\IEntities\bin\Debug\IEntities.pdb
+D:\RSG\DELL\Documentos\GitHub\RequisicionesBison\T259Prueba08.5\T259Prueba08\IEntities\obj\Debug\IEntities.csprojAssemblyReference.cache
+D:\RSG\DELL\Documentos\GitHub\RequisicionesBison\T259Prueba08.5\T259Prueba08\IEntities\obj\Debug\IEntities.dll
+D:\RSG\DELL\Documentos\GitHub\RequisicionesBison\T259Prueba08.5\T259Prueba08\IEntities\obj\Debug\IEntities.pdb
