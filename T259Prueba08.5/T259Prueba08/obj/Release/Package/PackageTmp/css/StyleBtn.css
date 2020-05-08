@@ -1,0 +1,140 @@
+﻿body {
+}
+
+/*
+http://www.cssdesigncenter.com/templates.php?query=&page=10&limit=10
+*/
+
+
+/* BUTTONs  ALEX  
+----------------------------------------------------------*/
+.btnCrear {
+    border: 1px solid #999999;
+    -webkit-border-radius: 42px;
+    -moz-border-radius: 42px;
+    font-size: 12px;
+    font-family: arial, helvetica, sans-serif;
+    padding: 5px 15px 5px 15px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    color: #000000;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+btnCrear hover {
+    border: 1px solid #7A7A7A;
+    background-color: #EEEEEE;
+}
+
+.button_Alex02 {
+    border: 1px solid #8ed058;
+    -webkit-box-shadow: #474747 0px 0px 5px;
+    -moz-box-shadow: #474747 0px 0px 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-family: arial, helvetica, sans-serif;
+    padding: 7px 10px 7px 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    color: #4D7D32;
+    background-color: #A9DB80;
+}
+
+    .button_Alex02:hover {
+        border: 1px solid #8ed058;
+        background-color: #8ED058;
+    }
+
+
+/*------------------*/
+
+
+.btnCte {
+    border-style: none;
+    border-color: inherit;
+    border-width: 0px;
+    -webkit-box-shadow: #474747 0px 0px 5px;
+    -moz-box-shadow: #474747 0px 0px 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    font-size: 10px;
+    font-family: arial, helvetica, sans-serif;
+    padding: 7px 10px 7px 10px;
+    text-decoration: none;
+    display: inline-block;
+    color: #4D7D32;
+    font-family: 'Segoe UI', 'Open Sans', Arial, sans-serif;
+    display: block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-align: center;
+    padding: 7px 10px;
+    margin: 15px 0px 0px 15px;
+    /*font-size: 26px;*/
+    text-transform: uppercase;
+    background: #ED5E2F url('../Imagenes/BuscarCte.png');
+    color: #FFF;
+}
+
+    .btnCte:hover {
+        background: #74A599;
+        border: 1px solid #8ed058;
+    }
+
+    .btnCte:active {
+        background: #F6A953;
+        border: 2px solid #F6A953;
+    }
+
+
+
+/*
+        ------------------------------*/
+.buttonW8 {
+    border: 1px solid #8ed058;
+    -webkit-box-shadow: #474747 0px 0px 5px;
+    -moz-box-shadow: #474747 0px 0px 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    font-size: 12px;
+    font-family: arial, helvetica, sans-serif;
+    padding: 7px 10px 7px 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    color: #4D7D32;
+    font-family: 'Segoe UI', 'Open Sans', Arial, sans-serif;
+    display: block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-align: center;
+    padding: 7px 10px;
+    margin: 15px 0px 0px 15px;
+    font-size: 26px;
+    text-transform: uppercase;
+    background: #ED5E2F;
+    color: #FFF;
+    border: 0px none;
+    background-image: url('http://localhost:63338/TPV/Imagenes/Death-icon.png');
+}
+
+    .buttonW8:hover {
+        background: #74A599;
+        border: 1px solid #8ed058;
+    }
+
+    .buttonW8:active {
+        background: #F6A953;
+        border: 2px solid #F6A953;
+    }
+
+
+
+
+/*-----------------------------------------
+    */

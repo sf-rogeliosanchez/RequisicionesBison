@@ -1,0 +1,5 @@
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IEntities\bin\x64\Debug\IEntities.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IEntities\bin\x64\Debug\IEntities.pdb
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IEntities\obj\x64\Debug\IEntities.csprojResolveAssemblyReference.cache
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IEntities\obj\x64\Debug\IEntities.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IEntities\obj\x64\Debug\IEntities.pdb

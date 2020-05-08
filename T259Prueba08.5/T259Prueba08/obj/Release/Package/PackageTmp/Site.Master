@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="T259Prueba08.Site" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <link href="css/Site.css" rel="stylesheet" />
+    <link href="css/StyleBtn.css" rel="stylesheet" />
+    <link href="css/StyleMenu.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <script type="text/javascript">
+    </script>
+
+    <style type="text/css">
+        #Banner {
+            background-color: transparent;
+            max-width: 500px;
+            height: 50px;
+        }
+
+        #Content {
+            min-width: 1220px;
+            margin: 0px auto;
+        }
+
+        #LeftColumn {
+            min-width: 600px;
+            background-color: transparent;
+            margin-top: -51px;
+        }
+
+        #Footer {
+            background-color: transparent;
+            height: 50px;
+        }
+    </style>
+</head>
+<body id="Body1" style="overflow: auto;" runat="server">
+    <div id="Banner">
+    </div>
+    <div id="Content" class="page">
+        <div id="LeftColumn">
+            <table border="0">
+                <tr style="height: 15%; width: 90%">
+                    <td>
+                        <div style="max-width: 900px; min-width: 300px; width: 90%">
+                            <ul id="nav">
+                                <li><a href='Login.aspx'><span>Menú</span></a></li>
+                                <li><a href="ReqsCrea.aspx"><span>Crear solicitud</span></a></li>
+                                <li><a href="Historial.aspx"><span>Historial</span></a></li>
+                            </ul>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr style="height: 80%">
+                    <td style="height: 300px; resize: none; align-items: baseline; vertical-align: top;">
+                        <div class="main">
+                            <div style="/*overflow-y: auto;*/">
+                                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                </asp:ContentPlaceHolder>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div style="clear: both;">
+        </div>
+    </div>
+    <div id="Footer">
+    </div>
+</body>
+</html>

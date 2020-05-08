@@ -1,0 +1,9 @@
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IEntities\bin\x86\Debug\IEntities.dll
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IEntities\bin\x86\Debug\IEntities.pdb
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IEntities\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IEntities\obj\x86\Debug\IEntities.dll
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IEntities\obj\x86\Debug\IEntities.pdb
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IEntities\bin\x86\Debug\IEntities.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IEntities\bin\x86\Debug\IEntities.pdb
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IEntities\obj\x86\Debug\IEntities.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IEntities\obj\x86\Debug\IEntities.pdb

@@ -1,0 +1,117 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="T259Prueba08.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="css/Site.css" rel="stylesheet" />
+    <link href="css/StyleBtn.css" rel="stylesheet" />
+    <link href="css/StyleMenu.css" rel="stylesheet" />
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script type="text/javascript">
+    </script>
+    <style type="text/css">
+        #Banner {
+            background-color: transparent;
+            max-width:500px;
+            height: 50px;
+        }
+
+        #Content {
+            background-color: transparent;
+            max-width: 1000px;
+            margin: 0px auto;
+            /*min-height:100px;*/
+        }
+
+        #LeftColumn {
+            float: left;
+            height: 100%;
+            /*width: 1000px;*/
+            /*max-height:500px;*/
+            min-width: 600px;
+            background-color: transparent;
+            margin-top: -51px; /*this needs to be dynamic*/
+        }
+
+        #Footer {
+            background-color: transparent;
+            height: 50px;
+        }
+    </style>
+</head>
+<body style="overflow:auto;" runat="server">
+    <div id="Banner"></div>
+    <div id="Content">
+        <div id="LeftColumn">
+            <table border="0">
+                <%-- border-color:white;" border="1">--%>
+                <tr style="height: 15%;">
+                    <%--<td></td>--%>
+                    <td>
+                        <div style="width: 100%;">
+                            <%--<div id='cssmenu'>
+                        <ul>
+                            <li class='active'><a href='Default.aspx'><span>Menú</span></a></li>
+                            <li><a href="Crea.aspx">Crear solicitud</a></li>
+                            <li><a href="Historial.aspx">Historial</a></li>
+                            <li class='has-sub'><a href="Roles.aspx">Roles</a>
+                                <ul>
+                                    <li><a href='Roles.aspx'><span>Ver</span></a></li>
+                                    <li><a href="CreaRol.aspx">Crear rol</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>--%>
+                            <%--<ul id="nav">--%>
+                            <ul class="Nav_menu">
+                                <li><a href='Default.aspx'><span>Menú</span></a></li>
+                                <li><a href="ReqsCrea.aspx"><span>Crear solicitud</span></a></li>
+                                <li><a href="Historial.aspx"><span>Historial</span></a></li>
+                                <%--<li><a href="Roles.aspx">Roles</a>
+                                <ul class="submenu">
+                                    <li><a href='Roles.aspx'><span>Ver</span></a></li>
+                                    <li><a href="CreaRol.aspx">Crear rol</a></li>
+                                </ul>
+                            </li>--%>
+                            </ul>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <%--<td style="width: 250px; vertical-align: top;" rowspan="3">
+                
+            </td>--%>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr style="height: 80%">
+
+                    <td style="height: 300px;resize: none; align-items: baseline; vertical-align: top;">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <%-- <tr>
+            <td style="height: 300px"></td>
+        </tr>--%>
+            </table>
+        </div>
+        <div style="clear: both;"></div>
+    </div>
+    <div id="Footer"></div>
+</body>
+</html>
+

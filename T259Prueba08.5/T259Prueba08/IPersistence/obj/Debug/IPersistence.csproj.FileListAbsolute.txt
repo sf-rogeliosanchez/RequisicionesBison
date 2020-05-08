@@ -1,0 +1,509 @@
+D:\Desarrollo\CINAR3\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+D:\Desarrollo\CINAR3\IPersistence\bin\Debug\IPersistence.dll
+D:\Desarrollo\CINAR3\IPersistence\bin\Debug\IPersistence.pdb
+D:\Desarrollo\CINAR3\IPersistence\bin\Debug\IEntities.dll
+D:\Desarrollo\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Desarrollo\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Desarrollo\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Desarrollo\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Desarrollo\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Desarrollo\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Desarrollo\CINAR3\IPersistence\bin\Debug\IEntities.pdb
+D:\Desarrollo\CINAR3\IPersistence\obj\Debug\IPersistence.dll
+D:\Desarrollo\CINAR3\IPersistence\obj\Debug\IPersistence.pdb
+D:\Proyectos\Desarrollo\CINAR3\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Desarrollo\CINAR3\IPersistence\bin\Debug\IPersistence.dll
+D:\Proyectos\Desarrollo\CINAR3\IPersistence\bin\Debug\IPersistence.pdb
+D:\Proyectos\Desarrollo\CINAR3\IPersistence\bin\Debug\IEntities.dll
+D:\Proyectos\Desarrollo\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\Desarrollo\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos\Desarrollo\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\Desarrollo\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Proyectos\Desarrollo\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos\Desarrollo\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos\Desarrollo\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Proyectos\Desarrollo\CINAR3\IPersistence\bin\Debug\IEntities.pdb
+D:\Proyectos\Desarrollo\CINAR3\IPersistence\obj\Debug\IPersistence.dll
+D:\Proyectos\Desarrollo\CINAR3\IPersistence\obj\Debug\IPersistence.pdb
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IPersistence\bin\Debug\IPersistence.dll
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IPersistence\bin\Debug\IPersistence.pdb
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IPersistence\bin\Debug\IEntities.dll
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IPersistence\bin\Debug\IEntities.pdb
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IPersistence\obj\Debug\IPersistence.dll
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IPersistence\obj\Debug\IPersistence.pdb
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\IPersistence.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\IPersistence.pdb
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\IEntities.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\IEntities.pdb
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\obj\Debug\IPersistence.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\obj\Debug\IPersistence.pdb
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\IPersistence.dll
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\IPersistence.pdb
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\IEntities.dll
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\bin\Debug\IEntities.pdb
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\obj\Debug\IPersistence.dll
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IPersistence\obj\Debug\IPersistence.pdb
+D:\Proyectos\CINABest\CINAR3\IPersistence\bin\Debug\IPersistence.dll
+D:\Proyectos\CINABest\CINAR3\IPersistence\bin\Debug\IPersistence.pdb
+D:\Proyectos\CINABest\CINAR3\IPersistence\bin\Debug\IEntities.dll
+D:\Proyectos\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Proyectos\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Proyectos\CINABest\CINAR3\IPersistence\bin\Debug\IEntities.pdb
+D:\Proyectos\CINABest\CINAR3\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\CINABest\CINAR3\IPersistence\obj\Debug\IPersistence.dll
+D:\Proyectos\CINABest\CINAR3\IPersistence\obj\Debug\IPersistence.pdb
+C:\Documents and Settings\Netzai\Escritorio\CINAR3\IPersistence\bin\Debug\IPersistence.dll
+C:\Documents and Settings\Netzai\Escritorio\CINAR3\IPersistence\bin\Debug\IPersistence.pdb
+C:\Documents and Settings\Netzai\Escritorio\CINAR3\IPersistence\bin\Debug\IEntities.dll
+C:\Documents and Settings\Netzai\Escritorio\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Netzai\Escritorio\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Netzai\Escritorio\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Netzai\Escritorio\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\Netzai\Escritorio\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Netzai\Escritorio\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Netzai\Escritorio\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Netzai\Escritorio\CINAR3\IPersistence\bin\Debug\IEntities.pdb
+C:\Documents and Settings\Netzai\Escritorio\CINAR3\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Netzai\Escritorio\CINAR3\IPersistence\obj\Debug\IPersistence.dll
+C:\Documents and Settings\Netzai\Escritorio\CINAR3\IPersistence\obj\Debug\IPersistence.pdb
+F:\CINABest\CINAR3\IPersistence\bin\Debug\IPersistence.dll
+F:\CINABest\CINAR3\IPersistence\bin\Debug\IPersistence.pdb
+F:\CINABest\CINAR3\IPersistence\bin\Debug\IEntities.dll
+F:\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+F:\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+F:\CINABest\CINAR3\IPersistence\bin\Debug\IEntities.pdb
+F:\CINABest\CINAR3\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+F:\CINABest\CINAR3\IPersistence\obj\Debug\IPersistence.dll
+F:\CINABest\CINAR3\IPersistence\obj\Debug\IPersistence.pdb
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\IPersistence.dll
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\IPersistence.pdb
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\IEntities.dll
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\IEntities.pdb
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IPersistence\obj\Debug\IPersistence.dll
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IPersistence\obj\Debug\IPersistence.pdb
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\IPersistence.dll
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\IPersistence.pdb
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\IEntities.dll
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IPersistence\bin\Debug\IEntities.pdb
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IPersistence\obj\Debug\IPersistence.dll
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IPersistence\obj\Debug\IPersistence.pdb
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IPersistence\bin\Debug\IPersistence.dll
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IPersistence\bin\Debug\IPersistence.pdb
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IPersistence\bin\Debug\IEntities.dll
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IPersistence\bin\Debug\IEntities.pdb
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IPersistence\obj\Debug\IPersistence.dll
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IPersistence\obj\Debug\IPersistence.pdb
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\IPersistence.dll
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\IPersistence.pdb
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\IEntities.dll
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\IEntities.pdb
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\obj\Debug\IPersistence.dll
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\obj\Debug\IPersistence.pdb
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\obj\Debug\IPersistence.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\obj\Debug\IPersistence.pdb
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\IPersistence.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\IPersistence.pdb
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\IEntities.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IPersistence\bin\Debug\IEntities.pdb
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\IPersistence.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\IPersistence.pdb
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\IEntities.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\IEntities.pdb
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IPersistence\obj\Debug\IPersistence.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IPersistence\obj\Debug\IPersistence.pdb
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IPersistence\obj\Debug\IPersistence.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IPersistence\obj\Debug\IPersistence.pdb
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\IPersistence.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\IPersistence.pdb
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\IEntities.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\IEntities.pdb
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\IPersistence.dll
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\IPersistence.pdb
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\IEntities.dll
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\IEntities.pdb
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IPersistence\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IPersistence\obj\Debug\IPersistence.dll
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IPersistence\obj\Debug\IPersistence.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\obj\Debug\IPersistence.csprojResolveAssemblyReference.cache
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\obj\Debug\IPersistence.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\obj\Debug\IPersistence.pdb
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\obj\Debug\IPersistence.csprojResolveAssemblyReference.cache
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\obj\Debug\IPersistence.dll
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\IPersistence.dll
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\IPersistence.pdb
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\IEntities.dll
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\IEntities.pdb
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IPersistence\obj\Debug\IPersistence.pdb
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\IPersistence.dll
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\IPersistence.pdb
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\IEntities.dll
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\IEntities.pdb
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\obj\Debug\IPersistence.csprojResolveAssemblyReference.cache
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\obj\Debug\IPersistence.dll
+C:\Users\EQUIPO\Documents\T259Prueba06\T259Prueba06\IPersistence\obj\Debug\IPersistence.pdb
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\IPersistence.dll
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\IPersistence.pdb
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\IEntities.dll
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\IEntities.pdb
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\obj\Debug\IPersistence.csprojResolveAssemblyReference.cache
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\obj\Debug\IPersistence.dll
+C:\Users\EQUIPO\Documents\T259Prueba06v1\T259Prueba06\IPersistence\obj\Debug\IPersistence.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\IPersistence.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\IPersistence.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\IEntities.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\IEntities.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\IPersistence.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\IPersistence.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\IEntities.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\IEntities.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\obj\Debug\IPersistence.csprojResolveAssemblyReference.cache
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\obj\Debug\IPersistence.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IPersistence\obj\Debug\IPersistence.pdb
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IPersistence.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IPersistence.pdb
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IEntities.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IEntities.pdb
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.csprojResolveAssemblyReference.cache
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IPersistence.dll
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IPersistence.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IEntities.dll
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IEntities.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.csprojResolveAssemblyReference.cache
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.dll
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IPersistence.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IPersistence.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IEntities.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IEntities.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.csprojResolveAssemblyReference.cache
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IPersistence.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IPersistence.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IEntities.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IEntities.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.csprojResolveAssemblyReference.cache
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.pdb
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IPersistence.dll
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IPersistence.pdb
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IEntities.dll
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\IEntities.pdb
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.xml
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.csprojResolveAssemblyReference.cache
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.dll
+F:\RSG\T259Prueba08\T259Prueba08\IPersistence\obj\Debug\IPersistence.pdb
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\IPersistence.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\IPersistence.pdb
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\IEntities.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\IEntities.pdb
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\obj\Debug\IPersistence.csprojResolveAssemblyReference.cache
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\obj\Debug\IPersistence.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\IPersistence\obj\Debug\IPersistence.pdb
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\IPersistence.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\IPersistence.pdb
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\IEntities.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\IEntities.pdb
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\obj\Debug\IPersistence.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\obj\Debug\IPersistence.pdb
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IPersistence\obj\Debug\IPersistence.csprojResolveAssemblyReference.cache
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\IPersistence.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\IPersistence.pdb
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\IEntities.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\IEntities.pdb
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\obj\Debug\IPersistence.csprojResolveAssemblyReference.cache
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\obj\Debug\IPersistence.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\IPersistence\obj\Debug\IPersistence.pdb

@@ -1,0 +1,158 @@
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\T259Prueba08.dll.config
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\T259Prueba08.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\T259Prueba08.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\IBusiness.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\IEntities.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\IPersistence.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\sapnco.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.Unity.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\IBusiness.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\IEntities.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\IPersistence.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.Unity.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.Unity.Interception.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\obj\Release\T259Prueba08.csprojResolveAssemblyReference.cache
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\obj\Release\T259Prueba08.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\obj\Release\T259Prueba08.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\Newtonsoft.Json.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\System.Net.Http.Formatting.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\System.Web.Http.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\System.Web.Http.WebHost.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\Newtonsoft.Json.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\System.Net.Http.Formatting.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\System.Web.Http.xml
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\bin\System.Web.Http.WebHost.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\T259Prueba08.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\T259Prueba08.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\IBusiness.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\IEntities.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\IPersistence.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\Newtonsoft.Json.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\System.Net.Http.Formatting.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\System.Web.Http.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\System.Web.Http.WebHost.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.Unity.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\IBusiness.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\IEntities.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\IPersistence.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\Newtonsoft.Json.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\System.Net.Http.Formatting.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\System.Web.Http.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\System.Web.Http.WebHost.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.Unity.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\bin\Microsoft.Practices.Unity.Interception.xml
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\obj\Release\T259Prueba08.csprojResolveAssemblyReference.cache
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\obj\Release\T259Prueba08.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\obj\Release\T259Prueba08.pdb
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\T259Prueba08.dll.config
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\T259Prueba08.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\T259Prueba08.pdb
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\IBusiness.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\IEntities.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\IPersistence.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\Microsoft.Web.Infrastructure.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\Newtonsoft.Json.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\System.Net.Http.Formatting.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\System.Web.Http.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\System.Web.Http.WebHost.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\Microsoft.Practices.Unity.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\Microsoft.Practices.Unity.Interception.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\IBusiness.pdb
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\IEntities.pdb
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\IPersistence.pdb
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\Newtonsoft.Json.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\System.Net.Http.Formatting.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\System.Web.Http.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\System.Web.Http.WebHost.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\Microsoft.Practices.Unity.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\bin\Microsoft.Practices.Unity.Interception.xml
+F:\RSG\T259Prueba08.2\T259Prueba08\obj\Release\T259Prueba08.csprojResolveAssemblyReference.cache
+F:\RSG\T259Prueba08.2\T259Prueba08\obj\Release\T259Prueba08.dll
+F:\RSG\T259Prueba08.2\T259Prueba08\obj\Release\T259Prueba08.pdb
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\T259Prueba08.dll.config
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\T259Prueba08.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\T259Prueba08.pdb
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\IBusiness.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\IEntities.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\IPersistence.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\Microsoft.Web.Infrastructure.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\Newtonsoft.Json.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\System.Net.Http.Formatting.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\System.Web.Http.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\System.Web.Http.WebHost.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\Microsoft.Practices.Unity.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\Microsoft.Practices.Unity.Interception.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\IBusiness.pdb
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\IEntities.pdb
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\IPersistence.pdb
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\Newtonsoft.Json.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\System.Net.Http.Formatting.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\System.Web.Http.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\System.Web.Http.WebHost.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\Microsoft.Practices.Unity.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\bin\Microsoft.Practices.Unity.Interception.xml
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\obj\Release\T259Prueba08.csprojResolveAssemblyReference.cache
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\obj\Release\T259Prueba08.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\obj\Release\T259Prueba08.pdb
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\T259Prueba08.dll.config
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\T259Prueba08.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\T259Prueba08.pdb
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\IBusiness.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\IEntities.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\IPersistence.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\Microsoft.Web.Infrastructure.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\Newtonsoft.Json.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\System.Net.Http.Formatting.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\System.Web.Http.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\System.Web.Http.WebHost.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\Microsoft.Practices.Unity.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\Microsoft.Practices.Unity.Interception.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\IBusiness.pdb
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\IEntities.pdb
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\IPersistence.pdb
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\Newtonsoft.Json.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\System.Net.Http.Formatting.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\System.Web.Http.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\System.Web.Http.WebHost.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\Microsoft.Practices.ServiceLocation.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\Microsoft.Practices.Unity.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\bin\Microsoft.Practices.Unity.Interception.xml
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\obj\Release\T259Prueba08.csprojResolveAssemblyReference.cache
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\obj\Release\T259Prueba08.dll
+F:\RSG\Visual\T259Prueba08.5\T259Prueba08\obj\Release\T259Prueba08.pdb

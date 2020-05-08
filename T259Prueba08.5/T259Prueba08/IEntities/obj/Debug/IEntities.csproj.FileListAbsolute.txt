@@ -1,0 +1,110 @@
+D:\Desarrollo\CINAR3\IEntities\bin\Debug\IEntities.dll
+D:\Desarrollo\CINAR3\IEntities\bin\Debug\IEntities.pdb
+D:\Desarrollo\CINAR3\IEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\Desarrollo\CINAR3\IEntities\obj\Debug\IEntities.dll
+D:\Desarrollo\CINAR3\IEntities\obj\Debug\IEntities.pdb
+D:\Proyectos\Desarrollo\CINAR3\IEntities\bin\Debug\IEntities.dll
+D:\Proyectos\Desarrollo\CINAR3\IEntities\bin\Debug\IEntities.pdb
+D:\Proyectos\Desarrollo\CINAR3\IEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Desarrollo\CINAR3\IEntities\obj\Debug\IEntities.dll
+D:\Proyectos\Desarrollo\CINAR3\IEntities\obj\Debug\IEntities.pdb
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IEntities\bin\Debug\IEntities.dll
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IEntities\bin\Debug\IEntities.pdb
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IEntities\obj\Debug\IEntities.dll
+D:\Proyectos\Desarrollo\copia13-oct-2009\CINAR3\IEntities\obj\Debug\IEntities.pdb
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IEntities\bin\Debug\IEntities.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IEntities\bin\Debug\IEntities.pdb
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IEntities\obj\Debug\IEntities.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\CINAR3\IEntities\obj\Debug\IEntities.pdb
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IEntities\bin\Debug\IEntities.dll
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IEntities\bin\Debug\IEntities.pdb
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IEntities\obj\Debug\IEntities.dll
+C:\Documents and Settings\esegura\Mis documentos\Visual Studio 2008\CINAR3\IEntities\obj\Debug\IEntities.pdb
+D:\Proyectos\CINABest\CINAR3\IEntities\bin\Debug\IEntities.dll
+D:\Proyectos\CINABest\CINAR3\IEntities\bin\Debug\IEntities.pdb
+D:\Proyectos\CINABest\CINAR3\IEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\CINABest\CINAR3\IEntities\obj\Debug\IEntities.dll
+D:\Proyectos\CINABest\CINAR3\IEntities\obj\Debug\IEntities.pdb
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IEntities\bin\Debug\IEntities.dll
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IEntities\bin\Debug\IEntities.pdb
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IEntities\obj\Debug\IEntities.dll
+C:\Documents and Settings\Netzai\Escritorio\CINABest\CINAR3\IEntities\obj\Debug\IEntities.pdb
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IEntities\bin\Debug\IEntities.dll
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IEntities\bin\Debug\IEntities.pdb
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IEntities\obj\Debug\IEntities.dll
+C:\Documents and Settings\Admin\Escritorio\CINABest\CINAR3\IEntities\obj\Debug\IEntities.pdb
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IEntities\bin\Debug\IEntities.dll
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IEntities\bin\Debug\IEntities.pdb
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IEntities\obj\Debug\IEntities.dll
+C:\Documents and Settings\Admin\Escritorio\Copia de CINABest\CINAR3\IEntities\obj\Debug\IEntities.pdb
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IEntities\bin\Debug\IEntities.dll
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IEntities\bin\Debug\IEntities.pdb
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IEntities\obj\Debug\IEntities.dll
+C:\Documents and Settings\Admin\Escritorio\AGH_CINAR3_WS\CINAR3\IEntities\obj\Debug\IEntities.pdb
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IEntities\bin\Debug\IEntities.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IEntities\bin\Debug\IEntities.pdb
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IEntities\obj\Debug\IEntities.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\CINAR3\IEntities\obj\Debug\IEntities.pdb
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IEntities\bin\Debug\IEntities.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IEntities\bin\Debug\IEntities.pdb
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IEntities\obj\Debug\IEntities.dll
+C:\Documents and Settings\XP\Escritorio\AGH_CINAR3_WS\WS\IEntities\obj\Debug\IEntities.pdb
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IEntities\bin\Debug\IEntities.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IEntities\bin\Debug\IEntities.pdb
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IEntities\obj\Debug\IEntities.dll
+C:\Documents and Settings\Netzai\Mis documentos\Visual Studio 2008\Projects\AGH_CINAR3_WS\WS\IEntities\obj\Debug\IEntities.pdb
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IEntities\bin\Debug\IEntities.dll
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IEntities\bin\Debug\IEntities.pdb
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IEntities\obj\Debug\IEntities.dll
+C:\Users\NE\Downloads\AGH_CINAR3_WS\WS\IEntities\obj\Debug\IEntities.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IEntities\bin\Debug\IEntities.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IEntities\bin\Debug\IEntities.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IEntities\obj\Debug\IEntities.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IEntities\obj\Debug\IEntities.pdb
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IEntities\obj\Debug\IEntities.csprojResolveAssemblyReference.cache
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IEntities\obj\Debug\IEntities.dll
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IEntities\bin\Debug\IEntities.dll
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IEntities\bin\Debug\IEntities.pdb
+D:\Google Drive\Solution Factory\Clientes\BISON\T259\T259Prueba06\T259Prueba06\IEntities\obj\Debug\IEntities.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba06\T259Prueba06\IEntities\obj\Debug\IEntities.csprojResolveAssemblyReference.cache
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IEntities\bin\Debug\IEntities.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IEntities\bin\Debug\IEntities.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IEntities\obj\Debug\IEntities.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IEntities\obj\Debug\IEntities.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba07\T259Prueba07\IEntities\obj\Debug\IEntities.csprojResolveAssemblyReference.cache
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IEntities\bin\Debug\IEntities.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IEntities\bin\Debug\IEntities.pdb
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IEntities\obj\Debug\IEntities.dll
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IEntities\obj\Debug\IEntities.pdb
+C:\Users\SF-0009\Downloads\T259Prueba08\T259Prueba08\T259Prueba08\IEntities\obj\Debug\IEntities.csprojResolveAssemblyReference.cache
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IEntities\bin\Debug\IEntities.dll
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IEntities\bin\Debug\IEntities.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IEntities\obj\Debug\IEntities.dll
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IEntities\obj\Debug\IEntities.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2012\Projects\T259Prueba08\T259Prueba08\IEntities\obj\Debug\IEntities.csprojResolveAssemblyReference.cache
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IEntities\bin\Debug\IEntities.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IEntities\bin\Debug\IEntities.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IEntities\obj\Debug\IEntities.dll
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IEntities\obj\Debug\IEntities.pdb
+C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\T259Prueba08\T259Prueba08\IEntities\obj\Debug\IEntities.csprojResolveAssemblyReference.cache
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IEntities\bin\Debug\IEntities.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IEntities\bin\Debug\IEntities.pdb
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IEntities\obj\Debug\IEntities.csprojResolveAssemblyReference.cache
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IEntities\obj\Debug\IEntities.dll
+C:\Users\SF-0009\Documents\Visual Studio 2008\Projects\T259Prueba08\T259Prueba08\IEntities\obj\Debug\IEntities.pdb
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IEntities\bin\Debug\IEntities.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IEntities\bin\Debug\IEntities.pdb
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IEntities\obj\Debug\IEntities.csprojResolveAssemblyReference.cache
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IEntities\obj\Debug\IEntities.dll
+F:\RSG\Visual\T259Prueba08.4\T259Prueba08\IEntities\obj\Debug\IEntities.pdb
